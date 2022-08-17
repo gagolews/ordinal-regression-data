@@ -1,4 +1,6 @@
-# Ordinal Regression Benchmark Data
+# Ordinal Regression Benchmark Data [DEPRECATED]
+
+> See <https://github.com/gagolews/teaching-data>.
 
 A compilation of datasets for benchmarking ordinal regression algorithms.
 
